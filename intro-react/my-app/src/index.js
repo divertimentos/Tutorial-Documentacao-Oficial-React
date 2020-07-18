@@ -3,6 +3,7 @@ import ReactDOM from 'react-dom';
 import './index.css';
 
 class Square extends React.Component {
+    // Renderiza um único button
     render() {
       return (
         <button className="square">
